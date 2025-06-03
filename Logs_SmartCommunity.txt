@@ -1,0 +1,29 @@
+Jan 15 10:00:00 gateway1 [SmartMeter-123] Energy consumption exceeded threshold. Current: 500W, Threshold: 400W
+Jan 15 10:05:00 gateway1 [SmokeDetector-A1] Smoke detected in Apartment 2B
+Jan 15 10:10:00 gateway1 [TemperatureSensor-B3] Temperature outside safe range: 35°C (High)
+Jan 15 10:15:00 gateway1 [MotionSensor-C1] Motion detected in restricted area (Basement)
+Jan 15 10:20:00 gateway1 [DoorSensor-D4] Door forced open at Entrance 2
+Jan 15 10:25:00 gateway1 [WaterSensor-E2] Water leak detected in Basement
+Jan 15 10:30:00 gateway1 [SecurityCamera-F1] Tampering detected on camera feed
+Jan 15 10:35:00 gateway1 [SmartLock-G1] Unauthorized access attempt detected at Apartment 1A
+Jan 15 10:40:00 gateway1 [AirQualitySensor-H2] High levels of CO2 detected in Community Hall
+Jan 15 10:45:00 gateway1 [NoiseSensor-I1] Excessive noise levels detected in Park Area
+Jan 15 10:50:00 gateway1 [SmartMeter-123] Energy consumption significantly decreased. Potential power outage.
+Jan 15 10:55:00 gateway1 [TemperatureSensor-B3] Temperature outside safe range: 15°C (Low)
+Jan 15 11:00:00 gateway1 [MotionSensor-C1] Motion detected in restricted area (Server Room)
+Jan 15 11:05:00 gateway1 [DoorSensor-D4] Door forced open at Fire Escape
+Jan 15 11:10:00 gateway1 [WaterSensor-E2] Water leak detected in Parking Garage
+Jan 15 11:15:00 gateway1 [SecurityCamera-F1] Video feed interrupted
+Jan 15 11:20:00 gateway1 [SmartLock-G1] Unauthorized access attempt detected at Gate 3
+Jan 15 11:25:00 gateway1 [AirQualitySensor-H2] High levels of PM2.5 detected in Children's Playground
+Jan 15 11:30:00 gateway1 [NoiseSensor-I1] Excessive noise levels detected in Library
+Jan 15 11:35:00 gateway1 [SmartMeter-123] Energy consumption significantly increased. Potential power surge.
+Jan 15 11:40:00 gateway1 [TemperatureSensor-B3] Temperature within normal range
+Jan 15 11:45:00 gateway1 [MotionSensor-C1] Normal motion detected in Common Area
+Jan 15 11:50:00 gateway1 [DoorSensor-D4] Door opened normally at Entrance 1
+Jan 15 11:55:00 gateway1 [WaterSensor-E2] No water leak detected
+Jan 15 12:00:00 gateway1 [SecurityCamera-F1] Video feed restored
+Jan 15 12:05:00 gateway1 [SmartLock-G1] Authorized access at Apartment 2B
+Jan 15 12:10:00 gateway1 [AirQualitySensor-H2] Air quality within normal range
+Jan 15 12:15:00 gateway1 [NoiseSensor-I1] Noise levels within normal range
+Jan 15 12:20:00 gateway1 [SmartMeter-123] Energy consumption within normal range
