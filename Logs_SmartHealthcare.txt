@@ -1,0 +1,47 @@
+Jan 15 09:45:00 gateway1 [RFID-C1] TagID: 1234567890, Location: Nursery. 
+Jan 15 10:00:00 gateway1 [BabyMonitor-123] AudioLevel: 0 dB for 300 seconds. 
+Jan 15 10:01:00 gateway1 [TemperatureSensor-A1] Temperature: 22°C. 
+Jan 15 10:02:00 gateway1 [HumiditySensor-B1] Humidity: 45%.
+Jan 15 10:03:00 gateway1 [LightSensor-C1] Light Level: 800 lux.
+Jan 15 10:04:00 gateway1 [AirQualitySensor-D1] CO2 Level: 400 ppm. 
+Jan 15 10:05:00 gateway1 [MotionSensor-A1] Zone1: Motion detected. Duration: 5 seconds.
+Jan 15 10:06:00 gateway1 [TemperatureSensor-A1] Temperature: 22.1°C. 
+Jan 15 10:07:00 gateway1 [HumiditySensor-B1] Humidity: 45.2%.
+Jan 15 10:08:00 gateway1 [LightSensor-C1] Light Level: 798 lux. 
+Jan 15 10:09:00 gateway1 [AirQualitySensor-D1] CO2 Level: 402 ppm. 
+Jan 15 10:10:00 gateway1 [DoorSensor-B3] Status: Open. Duration: 120 seconds.
+Jan 15 10:11:00 gateway1 [TemperatureSensor-A1] Temperature: 22.2°C. 
+Jan 15 10:12:00 gateway1 [HumiditySensor-B1] Humidity: 45.1%.
+Jan 15 10:13:00 gateway1 [LightSensor-C1] Light Level: 795 lux. 
+Jan 15 10:14:00 gateway1 [AirQualitySensor-D1] CO2 Level: 401 ppm. 
+Jan 15 10:15:00 gateway1 [RFID-C1] TagID: 1234567890, Location: Outside Nursery. 
+Jan 15 10:16:00 gateway1 [TemperatureSensor-A1] Temperature: 22.3°C. 
+Jan 15 10:17:00 gateway1 [HumiditySensor-B1] Humidity: 45.3%.
+Jan 15 10:18:00 gateway1 [LightSensor-C1] Light Level: 792 lux. 
+Jan 15 10:19:00 gateway1 [AirQualitySensor-D1] CO2 Level: 403 ppm. 
+Jan 15 10:20:00 gateway1 [MotionSensor-D4] Zone3: Motion detected. Duration: 3 seconds.
+Jan 15 10:21:00 gateway1 [TemperatureSensor-A1] Temperature: 22.2°C. 
+Jan 15 10:22:00 gateway1 [HumiditySensor-B1] Humidity: 45.2%.
+Jan 15 10:23:00 gateway1 [LightSensor-C1] Light Level: 790 lux. 
+Jan 15 10:24:00 gateway1 [AirQualitySensor-D1] CO2 Level: 401 ppm. 
+Jan 15 10:25:00 gateway1 [VideoAnalytics-E2] Event: Person_Carrying_Object, Confidence: 0.85, Location: Exit_Main
+Jan 15 10:26:00 gateway1 [TemperatureSensor-A1] Temperature: 22.1°C. 
+Jan 15 10:27:00 gateway1 [HumiditySensor-B1] Humidity: 45.1%.
+Jan 15 10:28:00 gateway1 [LightSensor-C1] Light Level: 793 lux. 
+Jan 15 10:29:00 gateway1 [AirQualitySensor-D1] CO2 Level: 400 ppm. 
+Jan 15 10:30:00 gateway1 [GeoFence-F1] TagID: 1234567890, Outside Geofence.
+Jan 15 10:31:00 gateway1 [TemperatureSensor-A1] Temperature: 22.0°C. 
+Jan 15 10:32:00 gateway1 [HumiditySensor-B1] Humidity: 45.0%.
+Jan 15 10:33:00 gateway1 [LightSensor-C1] Light Level: 795 lux. 
+Jan 15 10:34:00 gateway1 [AirQualitySensor-D1] CO2 Level: 398 ppm. 
+Jan 15 10:35:00 gateway1 [PanicButton-G1] Status: Triggered. Location: Nursery. 
+Jan 15 10:36:00 gateway1 [TemperatureSensor-A1] Temperature: 22.1°C. 
+Jan 15 10:37:00 gateway1 [HumiditySensor-B1] Humidity: 45.1%.
+Jan 15 10:38:00 gateway1 [LightSensor-C1] Light Level: 797 lux. 
+Jan 15 10:39:00 gateway1 [AirQualitySensor-D1] CO2 Level: 399 ppm. 
+
+
+
+
+
+
