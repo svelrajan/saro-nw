@@ -1,0 +1,51 @@
+﻿Customer ID,Age,Account Type,Transaction Frequency (Monthly),Average Transaction Value (USD),Digital Banking Usage Score (1-5),Preferred Payment Method,Loan Products Held,Customer Tenure (Years),Financial Goals
+1,35,Checking,28,65,5,Mobile Payments,No,3.2,Savings
+2,31,Checking,32,58,5,Debit Card,No,1.8,Savings
+3,29,Checking,25,72,4,Mobile Payments,No,0.9,Savings
+4,33,Checking,30,60,5,Debit Card,No,2.5,Savings
+5,30,Checking,27,68,4,Mobile Payments,No,1.1,Savings
+6,49,Savings,4,1150,3,Bank Transfer,Mortgage,9.5,Retirement
+7,52,Savings,3,1220,3,Bank Transfer,Mortgage,11.1,Retirement
+8,47,Savings,5,1080,2,Online Transfer,Mortgage,8.7,Retirement
+9,55,Savings,4,1180,3,Bank Transfer,Home Equity Loan,12.3,Retirement
+10,50,Savings,3,1250,3,Bank Transfer,Mortgage,10.6,Retirement
+11,26,Investment,9,480,4,Mobile Payments,Credit Card,2.1,Investment
+12,28,Investment,11,510,5,Online Transfer,Credit Card,0.7,Investment
+13,24,Investment,7,450,4,Mobile Payments,Credit Card,1.5,Investment
+14,29,Investment,10,530,5,Online Transfer,Credit Card,2.8,Investment
+15,27,Investment,8,495,4,Mobile Payments,Credit Card,0.4,Investment
+16,68,Retirement,1,1950,2,Check,None,16.4,Retirement
+17,71,Retirement,2,2020,2,Check,None,19.1,Retirement
+18,65,Retirement,1,1880,1,Bank Transfer,None,14.7,Retirement
+19,73,Retirement,2,2050,2,Check,None,21.5,Retirement
+20,69,Retirement,1,1990,2,Check,None,17.8,Retirement
+21,39,Checking,15,350,3,Debit Card,Auto Loan,5.6,Savings
+22,41,Checking,18,380,4,Mobile Payments,Auto Loan,7.2,Savings
+23,37,Checking,12,320,3,Debit Card,Auto Loan,4.9,Savings
+24,43,Checking,16,365,4,Mobile Payments,Personal Loan,6.1,Savings
+25,40,Checking,14,335,3,Debit Card,Auto Loan,5.3,Savings
+26,58,Savings,2,1600,2,Bank Transfer,Home Equity Loan,13.9,Retirement
+27,61,Savings,3,1750,3,Online Transfer,Home Equity Loan,15.2,Retirement
+28,56,Savings,2,1550,2,Bank Transfer,Home Equity Loan,12.6,Retirement
+29,63,Savings,3,1800,3,Online Transfer,"Mortgage, Home Equity Loan",16.8,Retirement
+30,59,Savings,2,1680,2,Bank Transfer,Home Equity Loan,14.3,Retirement
+31,23,Investment,6,280,5,Mobile Payments,No,0.2,Savings
+32,21,Investment,8,310,5,Debit Card,No,0.5,Savings
+33,25,Investment,5,250,4,Mobile Payments,No,0.9,Savings
+34,22,Investment,7,295,5,Online Transfer,No,0.1,Savings
+35,24,Investment,6,265,5,Mobile Payments,Credit Card,0.7,Savings
+36,75,Retirement,0.5,2500,1,Check,None,23.1,Retirement
+37,78,Retirement,1,2650,1,Check,None,25.8,Retirement
+38,72,Retirement,0.8,2400,1,Check,None,22.4,Retirement
+39,76,Retirement,1,2700,1,Bank Transfer,None,24.5,Retirement
+40,74,Retirement,0.6,2550,1,Check,None,23.7,Retirement
+41,36,Checking,22,90,4,Mobile Payments,No,4.1,Savings
+42,33,Checking,26,85,5,Debit Card,No,2.9,Savings
+43,38,Checking,19,98,4,Mobile Payments,No,5.7,Savings
+44,35,Checking,24,88,5,Online Transfer,No,3.5,Savings
+45,37,Checking,21,92,4,Mobile Payments,Credit Card,4.8,Savings
+46,51,Savings,3,1300,3,Bank Transfer,Mortgage,11.9,Retirement
+47,54,Savings,4,1380,2,Online Transfer,Mortgage,13.2,Retirement
+48,49,Savings,2,1250,3,Bank Transfer,Mortgage,10.5,Retirement
+49,57,Savings,3,1420,2,Online Transfer,Home Equity Loan,14.6,Retirement
+50,53,Savings,3,1350,3,Bank Transfer,Mortgage,12.8,Retirement
