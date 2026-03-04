@@ -5,6 +5,7 @@ import os
 from rich.console import Console
 import sys
 import builtins
+from rich.markdown import Markdown # Import Markdown
 
 # Create a safe console for Jupyter (no ANSI, no recursion)
 console = Console(force_terminal=False, file=sys.__stdout__)
@@ -19,7 +20,7 @@ from crewai import Agent, Task, Crew, LLM
 
 # Use LangChain-compatible Gemini
 llm = LLM(
-    model="gemini/gemini-2.0-flash",
+    model="gemini/gemini-2.5-flash",
     temperature=0.7,
     api_key=os.environ["GOOGLE_API_KEY"]
 )
@@ -45,4 +46,5 @@ crew = Crew(agents=[researcher],
 
 result = crew.kickoff()
 
-print("\n Final Output:\n", result)
+# Print the final output as Markdown
+console.print(Markdown(f"\n# Final Output:\n{result}"))
