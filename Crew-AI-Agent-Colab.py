@@ -14,7 +14,7 @@ console = Console(force_terminal=False, file=sys.__stdout__)
 builtins.print = console.print
 
 from google.colab import userdata
-os.environ["GOOGLE_API_KEY"] = userdata.get('GOOGLE_API_KEY')
+os.environ["GEMINI_API_KEY"] = userdata.get('GEMINI_API_KEY')
 
 from crewai import Agent, Task, Crew, LLM
 
@@ -22,7 +22,7 @@ from crewai import Agent, Task, Crew, LLM
 llm = LLM(
     model="gemini/gemini-2.5-flash",
     temperature=0.7,
-    api_key=os.environ["GOOGLE_API_KEY"]
+    api_key=os.environ["GEMINI_API_KEY"]
 )
 researcher = Agent(
     role="Network Security Administrator",
